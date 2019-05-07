@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RootCheacker</string>
+    <string name="roted">Is Rooted device</string>
+    <string name="notroted">Not a Rooted device</string>
+</resources>
